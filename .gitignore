@@ -1,0 +1,63 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+bin/
+lib/
+include/
+share/
+pyvenv.cfg
+
+# Environment variables
+.env
+.env.*
+
+# Cache and logs
+*.log
+*.sqlite3
+*.db
+*.pot
+*.pyc
+.DS_Store
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependencies
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Generated documentation
+docs/_build/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Test outputs
+htmlcov/
+.coverage
+*.cover
+*.py,cover
+.hypothesis/
+.tox/
+.nox/
+.cache/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Others
+*.bak
+*.tmp
+*.pid
+*.seed
+*.mkv
+*.mp4
