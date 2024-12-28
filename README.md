@@ -8,7 +8,7 @@ An intelligent chatbot application that analyzes user sentiment (e.g., happy, sa
 
 - **Sentiment Analysis**: Detects sentiment from user input.
 - **Conversational Responses**: Custom chatbot responses tailored to detected sentiment.
-- **Scalable Backend**: Built with Flask for a lightweight and robust API.
+- **Scalable Backend**: Built with FastAPI for a lightweight and robust API.
 - **Extendable**: Designed for easy integration with advanced NLP models like BERT.
 
 ---
